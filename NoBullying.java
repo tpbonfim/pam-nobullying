@@ -17,5 +17,7 @@ public class NoBullying {
 		System.out.println("Passo 7: Aceitar as diferenças em qualquer situação");
 
 		System.out.println("Passo 8: Sempre perguntar se está acontecendo algo e oferecer ajuda");
+
+		System.out.println("Passo 9: Conversar com os responsáveis legais");
 	} 
 }
