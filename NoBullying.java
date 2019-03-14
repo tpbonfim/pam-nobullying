@@ -13,5 +13,7 @@ public class NoBullying {
 		System.out.println("Passo 5: Ajudar com um auxilio psicológico");
 
 		System.out.println("Passo 6: Não fazer julgamentos sobre o que a pessoa passa");
+
+		System.out.println("Passo 7: Aceitar as diferenças em qualquer situação");
 	} 
 }
