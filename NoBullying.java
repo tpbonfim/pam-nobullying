@@ -11,5 +11,7 @@ public class NoBullying {
 		System.out.println("Passo 4: Tentar fazer a pessoa se socializar");
 
 		System.out.println("Passo 5: Ajudar com um auxilio psicológico");
+
+		System.out.println("Passo 6: Não fazer julgamentos sobre o que a pessoa passa");
 	} 
 }
